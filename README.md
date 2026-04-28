@@ -1,12 +1,12 @@
 # Vladyslav Mudrichenko
 
-I build **[Coretsia](https://coretsia.dev)**, a modular deterministic PHP 8.4+ framework focused on clean architecture, strict contracts, compile-time boundaries, and production-grade developer experience.
+I build **[Coretsia](https://coretsia.dev)**, an open-source modular deterministic PHP 8.4+ framework focused on clean architecture, strict contracts, compile-time boundaries, and production-grade developer experience.
 
 ## Current focus
 
 - PHP 8.4+ framework architecture
 - Deterministic tooling and reproducible build outputs
-- Monorepo governance and SSoT-driven development
+- Monorepo governance and single source of truth (SSoT)-driven development
 - Strict package boundaries, contracts, and runtime/tooling separation
 - Developer experience for scalable PHP systems
 
