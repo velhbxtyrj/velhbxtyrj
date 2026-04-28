@@ -1,16 +1,25 @@
-## Hi there 👋
+# Vladyslav Mudrichenko
 
-<!--
-**velhbxtyrj/velhbxtyrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build **Coretsia**, a modular deterministic PHP 8.4+ framework focused on clean architecture, strict contracts, compile-time boundaries, and production-grade developer experience.
 
-Here are some ideas to get you started:
+## Current focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- PHP 8.4+ framework architecture
+- Deterministic tooling and reproducible build outputs
+- Monorepo governance and SSoT-driven development
+- Strict package boundaries, contracts, and runtime/tooling separation
+- Developer experience for scalable PHP systems
+
+## Main project
+
+### Coretsia
+
+Adaptive deterministic PHP framework that scales from minimal services to enterprise systems without rewrites.
+
+- Website: https://coretsia.dev
+- Organization: https://github.com/coretsia
+- Monorepo: https://github.com/coretsia/monorepo
+
+## Engineering interests
+
+PHP internals, framework kernels, dependency injection, configuration systems, HTTP middleware pipelines, package architecture, static guarantees, CI gates, reproducible artifacts, and long-term maintainability.
