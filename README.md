@@ -14,6 +14,8 @@ I build **[Coretsia](https://coretsia.dev)**, an open-source modular determinist
 
 ### Coretsia
 
+> Coretsia is currently under active development, with a strong focus on deterministic tooling, strict contracts, and long-term architectural stability.
+
 Adaptive deterministic PHP framework that scales from minimal services to enterprise systems without rewrites.
 
 - Website: https://coretsia.dev
@@ -22,4 +24,8 @@ Adaptive deterministic PHP framework that scales from minimal services to enterp
 
 ## Engineering interests
 
-PHP internals, framework kernels, dependency injection, configuration systems, HTTP middleware pipelines, package architecture, static guarantees, CI gates, reproducible artifacts, and long-term maintainability.
+- PHP internals and framework kernels
+- Dependency injection and configuration systems
+- HTTP middleware pipelines
+- Package architecture and static guarantees
+- CI gates, reproducible artifacts, and long-term maintainability
